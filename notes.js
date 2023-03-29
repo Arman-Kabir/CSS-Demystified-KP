@@ -1,4 +1,4 @@
-/**#8
+/**#8 Relationships
  * **The relationships between:
  * An element and the viewport
  * An element and it's parent
@@ -9,4 +9,10 @@
  * *These relationships are controlled by a given elements formatting context.
  * 
  * **Layouts are all about Relationships between elements.
+ */
+
+
+/**#9
+ * The global scope of css is not a bug , it's a feature.
+ * 
  */
