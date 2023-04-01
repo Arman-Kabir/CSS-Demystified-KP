@@ -16,3 +16,9 @@
  * The global scope of css is not a bug , it's a feature.
  * 
  */
+
+
+/**#10
+ * ** When we declare a width to an element,  that width is setting the width of the content. 
+ * 
+ */
