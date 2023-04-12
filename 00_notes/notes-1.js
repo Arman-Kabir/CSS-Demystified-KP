@@ -20,5 +20,9 @@
 
 /**#10
  * ** When we declare a width to an element,  that width is setting the width of the content. 
+ *  * Margin is spacing between elements
+ */
+
+/**#11
  * 
  */
