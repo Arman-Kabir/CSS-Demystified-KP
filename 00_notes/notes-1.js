@@ -37,3 +37,14 @@
   * every element has intrinsic height by default.
   * Means height is determined by content that is inside of it.
   */
+
+ /**16 Inheritance
+  *  Inheritance is when we declare something on an element, and it also applies that element's descendants.
+  * 
+  * With CSS, there is only one parent
+  * 
+  * ** ANything related to Typography is inherited.
+  * ** Nothing related to Layout is inherited
+  * 
+  * **Everything we see on the page is a child of the html element,so they inherit those properties.
+  */
