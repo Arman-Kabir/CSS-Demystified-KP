@@ -28,3 +28,8 @@
 
  when we set width to % -- it't up the parent
  */
+
+ /**13
+  * as long as u don't have margin in border-box, u won't get overflow.
+  * 
+  */
