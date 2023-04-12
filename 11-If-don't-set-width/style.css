@@ -8,13 +8,21 @@ body {
 
 
 .content {
-    border: 50px solid red;
-    padding: 50px;
+    width: 100%;
+    border: 10px solid red;
+    padding: 10px;
     margin-top: 10em;
     background: white;
     box-shadow: 0 0 3em rgba(0, 0, 0, .15);
 
 }
+
+.example{
+    border: 5px solid limegreen;
+    width: 350px;
+}
+
+
 
 :root {
     --clr-primary: #ee6352;

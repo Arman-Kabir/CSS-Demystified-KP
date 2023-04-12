@@ -18,11 +18,13 @@
  */
 
 
-/**#10
+/**#11
  * ** When we declare a width to an element,  that width is setting the width of the content. 
  *  * Margin is spacing between elements
  */
 
-/**#11
- * 
+/**#12
+ *Block level elements have a width 100% by default..
+
+ when we set width to % -- it't up the parent
  */
