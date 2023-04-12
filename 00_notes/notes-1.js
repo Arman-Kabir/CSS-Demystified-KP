@@ -33,6 +33,7 @@
   * as long as u don't have margin in border-box, u won't get overflow.
   */
  
- /**14
-  * 
+ /**15
+  * every element has intrinsic height by default.
+  * Means height is determined by content that is inside of it.
   */

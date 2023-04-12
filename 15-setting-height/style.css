@@ -1,0 +1,35 @@
+* {
+    /* margin: 0; */
+}
+
+body {
+    background: var(--clr-body);
+}
+.parent{
+    margin-top: 10em;
+    
+}
+
+.content {
+    background: white;
+    margin: 0 auto;   
+    padding: 3em;
+    box-shadow: 0 0 3em rgba(0, 0, 0, .15);
+
+}
+
+.title {
+    margin: 0 0 .5em;
+    font-weight: 900;
+    color: var(--clr-primary);
+    line-height: .8;
+}
+
+
+
+
+
+:root {
+    --clr-primary: #ee6352;
+    --clr-body: #333;
+}
