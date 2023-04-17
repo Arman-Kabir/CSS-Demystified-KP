@@ -43,8 +43,11 @@
   * 
   * With CSS, there is only one parent
   * 
-  * ** ANything related to Typography is inherited.
-  * ** Nothing related to Layout is inherited
+  * ** ANything related to Typography is inherited.Such as - font-size,font-family,font-weight, line-height text-decoration,color,text-transform etc. That's why it's common to place a lot of typohraphic rules on the <html> or <body>
+  * 
+  * **If there is a browser default- that on certain property - that won't be inherited
+  * 
+  * ** Nothing related to Layout is inherited. Such as - margin,padding,height,width,position etc.
   * 
   * **Everything we see on the page is a child of the html element,so they inherit those properties.
   */
