@@ -3,10 +3,52 @@
     font-family: 'Cinzel', serif;
     font-family: 'PT Serif', serif;
 */
-body{
+html {
+  font-size: 16px;
+}
+
+body {
+  margin: 0;
   color: #414141;
+  /* font-size: 18px;
+  line-height: 1.6;
+  font-family: 'PT Serif', serif; */
+}
+
+a {
+  text-decoration: none;
+  color: #CA5E10;
+}
+
+header {
+  /* outline: 2px solid red; */
+  /* background: yellow; */
+  max-width: 75rem;
   text-align: center;
-  font-size: 18px;
+  margin: 6rem auto;
+  padding: 0 2rem;
+  /* background: orange;
+  padding: 2em 0;
+  color: white; */
+}
+
+h1 {
+  font-size: 96px;
+  line-height: .9;
+  margin: 0;
+  text-transform: uppercase;
+  font-family: 'Cinzel', serif;
+  font-weight: 900;
+}
+
+.subtitle {
+  font-size: 36px;
+  line-height: 1.2;
+  color: #7D7D7D;
+}
+
+.lead {
+  font-size: 21px;
 }
 
 .container {
@@ -15,27 +57,7 @@ body{
   margin: 0 auto;
   margin-top: 50px;
 }
-.container p{
+
+.container p {
   text-align: left;
 }
-
-header h1{
-  color: #414141;
-  font-size: 96px;
-  text-transform: uppercase;
-  margin-bottom: 0;
-}
-.subtitle{
-  color: #7D7D7D;
-  font-size: 36px;
-  margin-top: 0; 
-}
-.lead{
-  font-size: 21px;
-}
-a{
-  text-decoration: none;
-  color: #CA5E10;
-}
-
-
