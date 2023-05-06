@@ -51,3 +51,13 @@
   * 
   * **Everything we see on the page is a child of the html element,so they inherit those properties.
   */
+
+ /**22 -  cascade
+  *  1. Origin and Importance
+  *  2. Specificity
+  *  3. Order of Appearance
+  * 
+  */
+ /**23 - importance and origin
+  *  !important
+  */
