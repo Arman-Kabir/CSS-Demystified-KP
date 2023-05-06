@@ -58,6 +58,22 @@
   *  3. Order of Appearance
   * 
   */
+
  /**23 - importance and origin
   *  !important
+  */
+
+ /**24 - origin-and-font-size-implications
+  *  One of the reasons we don't use px for font-sizes - these are absolute numbers that potentially could cause some problems.
+  *  
+  *  **** some people do- set it 62.5% to make life easier to calculate the font-size they want--->
+  * 
+  *   html{
+  *     font-size: 62.5%;
+  * }
+  * 
+  */
+
+ /**25 - when animations-and-transitions get involved
+  *     
   */
