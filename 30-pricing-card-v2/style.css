@@ -19,7 +19,8 @@ h1{
 }
 .plans{   
     display: flex;
-    justify-content: center; 
+    justify-content: center;
+    margin: 2em 0;
 }
  .plan{
     margin: 0 .5em;
@@ -60,25 +61,24 @@ h1{
 
 .button{
     text-decoration: none;
-    padding: 10px;
-    /* display: block; */
-    /* width: 96px; */
-    margin: 20px auto;
+    padding: .5em .75em;
     border-radius: 6px;
-    background: #4E4E4E;
     color: white;
     font-weight: 700;
+    text-transform: uppercase;
 }
-/*
-.button-light{
+.button--light{
     background:#fff ;
     color: #4E4E4E;
 }
-.button-action{
-    margin-top: 10px;
+
+.button--dark{
+    background:#4E4E4E;
+    color: #fff;
+}
+
+.button--accent{
     background: #00A1AB;
 }
 
-.action{
-    text-align: center;
-} */
+
