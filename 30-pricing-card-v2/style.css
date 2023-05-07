@@ -11,7 +11,7 @@ header{
 .heading{
     margin: 0;
     font-size: 40px;
-    font-weight: 700;
+    font-weight: 900;
     color: #00A1AB;
 }
 .subheading{
@@ -29,7 +29,57 @@ header{
 .card{
     text-align: center;
     max-width: 261px;
-    padding: 30px;
+    padding: 10px 36px;
     border-radius: 10px;
     background: linear-gradient(333.85deg, #E5E3E8 0.88%, #FAFAFA 99.09%);
+}
+
+.card2{
+    background: linear-gradient(333.85deg, #00A1AB 0.88%, #3741A0 99.09%);
+    color: #fff !important;
+}
+.card__title{
+    font-size: 18px;
+    font-weight: 700;
+}
+.card__price{
+    font-size: 48px;
+    margin: 0;
+    color: #00A1AB;
+    font-weight: 900;
+    line-height: .7em;
+}
+.card_price_tag{
+    font-size: 25px;  
+    color: #00A1AB;
+    font-weight: 300;
+}
+.card__description{
+    font-size: 16px;
+    color: #4E4E4E;
+    line-height: 1.5em;
+}
+
+.button{
+    text-decoration: none;
+    padding: 10px;
+    display: block;
+    width: 96px;
+    margin: 20px auto;
+    border-radius: 6px;
+    background: #4E4E4E;
+    color: white;
+    font-weight: 700;
+}
+.button-light{
+    background:#fff ;
+    color: #4E4E4E;
+}
+.button-action{
+    margin-top: 10px;
+    background: #00A1AB;
+}
+
+.action{
+    text-align: center;
 }
