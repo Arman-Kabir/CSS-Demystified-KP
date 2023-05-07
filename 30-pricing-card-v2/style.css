@@ -33,6 +33,9 @@ h1{
     background: linear-gradient(333.85deg, #E5E3E8 0.88%, #FAFAFA 99.09%);
     color: #4e4e4e;
 }
+.plan--light .plan--price{
+    color:#00A1AB;
+}
 .plan--accent{
     background: linear-gradient(333.85deg, #00A1AB 0.88%, #3741A0 99.09%);
     color: #fff;
@@ -44,7 +47,7 @@ h1{
 }
 .plan--price{
     font-size: 48px;
-    color: #00A1AB;
+    /* color: #00A1AB; */
     font-weight: 900;
     line-height: 1;
 }
