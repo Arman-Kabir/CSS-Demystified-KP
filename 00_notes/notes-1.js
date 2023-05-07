@@ -78,4 +78,7 @@
   *     
   */
 
- 
+ /**27 - specificity
+  *  Specificity is one of the ways that the browser decides which declaration to use on a given element(If there are 2 or more conflicting styles)
+  *  **The higher the specificity, the more important that selector is considered to be, so it will win.
+  */
