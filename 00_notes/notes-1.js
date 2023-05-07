@@ -83,6 +83,6 @@
   *  **The higher the specificity, the more important that selector is considered to be, so it will win.
   */
 
- /**28 - fixing specificity issues
-  * 
+ /**29 - calculating specificity
+  *  specificity calculator site
   */
